@@ -6,3 +6,7 @@
 4) In the lower lines of the prompt you can see a message that tell you the folders used for the rust compiler.
 5) At last you have to choose between 3 options concerning the donwload mode (authomatic or manually). Choose number 1 (Authomatic).
 6) The rust compiler is downloaded in your computer.
+
+## COMPILER COMMAND
+
+rustc

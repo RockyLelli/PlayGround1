@@ -11,3 +11,7 @@
 9. To be shure of having downloaded the compiler, run a prompt.
 10. In the prompt run the following command: "java".
 11. The compiler was successfully downloaded if the prompt returns a response to the command.
+
+## COMPILER COMMAND
+
+java, javac

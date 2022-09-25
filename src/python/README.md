@@ -6,4 +6,4 @@
 
 ## COMPILER COMMAND
 
-py
+py, python, python3

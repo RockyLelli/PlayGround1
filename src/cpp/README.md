@@ -1,4 +1,4 @@
-## HOW TO INSTALL THE COMPILATOR
+# HOW TO INSTALL THE COMPILATOR
 
 1. Follow the link (https://nuwen.net/files/mingw/mingw-18.0-without-git.exe).
 2. It's going to download a file. Click on it and choose the folder where to download the compilator.
@@ -15,6 +15,6 @@
     C:\Temp>"
 6. For other instructions follow the link (https://nuwen.net/mingw.html#install).
     
-# COMPILER COMMAND
+## COMPILER COMMAND
 
 g++

@@ -17,4 +17,4 @@
     
 ## COMPILER COMMAND
 
-g++
+1. g++/gcc: to compile a non-compiled file;

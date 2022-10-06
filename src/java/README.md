@@ -14,4 +14,5 @@
 
 ## COMPILER COMMAND
 
-javac (to compile the non-compiled .java file), java (to execute the compiled .class file)
+javac: to compile the non-compiled (.java) file;
+java: to execute the compiled (.class) file.

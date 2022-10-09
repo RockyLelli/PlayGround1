@@ -1,3 +1,3 @@
 fn main(){
-    print.ln!("Hello World")
+    print!("Hello World");
 }

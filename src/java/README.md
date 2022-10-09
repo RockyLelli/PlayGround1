@@ -14,4 +14,5 @@
 
 ## COMPILER COMMAND
 
-java, javac
+1. javac: to compile the non-compiled (.java) file;
+2. java: to execute the compiled (.class) file (don't write the extension ".class").

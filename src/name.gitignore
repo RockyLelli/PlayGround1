@@ -1,0 +1,11 @@
+# ignore ALL .exe files
+*.exe
+
+# ignore ALL .pyc files
+*.pyc
+
+# ignore ALL .class files
+*.class
+
+# ignore ALL .pdb files
+*.pdb

@@ -1,7 +1,14 @@
 package main
 
-import "fmt" // https://pkg.go.dev/fmt
+import (
+	"fmt"
+	"os"
+) // https://pkg.go.dev/fmt
 
 func main() {
-	fmt.Println("Hello World")
+
+	arg := os.Args[1]
+
+	fmt.Print("Hello ")
+	fmt.Println(arg)
 }

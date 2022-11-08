@@ -6,4 +6,4 @@
 
 ## COMPILER COMMAND
 
-go
+go run

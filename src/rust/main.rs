@@ -2,8 +2,8 @@ use std::env;
 
 fn main(){
     let name: Vec<String> = env::args().collect();
-    for arg in name.iter(){
+    for _arg in name.iter(){
         print!("Hello ");
-        println!("{}", name[]);
+        println!("{}", name[1]);
     }
 }

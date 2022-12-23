@@ -7,8 +7,8 @@ import (
 
 func main() {
 
-	arg := os.Args[1]
+	name := os.Args[1]
 
 	fmt.Print("Hello ")
-	fmt.Println(arg)
+	fmt.Println(name)
 }
